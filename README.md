@@ -1,1 +1,1 @@
-# wsp-fetch-flickr
+# wsp-fetch-memes
